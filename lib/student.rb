@@ -44,7 +44,6 @@ class Student
     student = Student.new(name, grade)
     # binding.pry
     student.save
-    student
   end
 
   # Remember, you can access your database connection anywhere in this class
